@@ -1,0 +1,23 @@
+.item{
+    transition: 0.3s;
+    color: blue;
+    border: 2px solid black;
+    float: left;
+    padding: 20px;
+    margin-left: 20px;
+    color: blueviolet;
+    background-color: aqua;
+    border-radius: 10px;
+    height: 30px;
+    width: 40px;
+    display: flex;
+    flex-direction: row;
+    flex: 25%;
+}
+
+.container:hover{
+    cursor: pointer;
+}
+.container:hover > :not(:hover){
+    opacity : 0.4;
+}
