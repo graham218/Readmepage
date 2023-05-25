@@ -8,4 +8,4 @@
 **Languages and Tools:**
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,javascript,html,css,mysql,firebase,java,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,javascript,html,css,mysql,firebase,java,figma&theme=light&perline=5)](https://skillicons.dev)
