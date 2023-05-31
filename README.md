@@ -1,6 +1,6 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20%20Aaryaveer;Learning%20Flutter%20Currently...;&font=Fira%20Code&width=440&height=45&color=FF7830&vCenter=true&pause=1000&size=25" /> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=28&duration=2000&pause=1500&color=F79923&background=FFFFFF00&width=435&lines=Hi+I'm+Aaryaveer;Learning+flutter+currently...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=28&duration=2000&pause=1500&color=F79923&background=FFFFFF00&width=435&lines=Hi+I'm+Aaryaveer;Learning+Flutter+currently...)](https://git.io/typing-svg)
 
 <!-- ## Hi! 👋, I'm Aaryaveer
 #### Learning mobile application development📱 -->
