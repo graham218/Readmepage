@@ -14,8 +14,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,javascript,html,css,mysql,firebase,java,figma&theme=dark&perline=10)](https://skillicons.dev)
 
-## Stats📈
+<!-- ## Stats📈
 
 [![Aaryaveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKR-2803&theme=aura_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKR-2803&theme=aura_dark&layout=compact" />
 <img style="margin: 10px auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=AKR-2803&theme=aura_dark" />
+ -->
