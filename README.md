@@ -1,6 +1,13 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20%20Aaryaveer;Learning%20Flutter%20Currently...;&font=Fira%20Code&width=440&height=45&color=FF7830&vCenter=true&pause=1000&size=25" /> -->
+<!--![Code Coding GIF - Code Coding Programming - Discover   Share GIFs](https://github.com/AKR-2803/AKR-2803/assets/109909231/c5dd19ee-5d3d-4e2a-9f54-75a50bb3f0a3) -->
+<div align="center">
+  <kbd>
+    <img src="https://github.com/AKR-2803/AKR-2803/assets/109909231/c5dd19ee-5d3d-4e2a-9f54-75a50bb3f0a3" width="500" height = "350">
+  </kbd>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=28&duration=2000&pause=1500&color=F79923&background=FFFFFF00&width=435&lines=Hi+I'm+Aaryaveer;Learning+Flutter+currently...)](https://git.io/typing-svg)
+
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=28&duration=2000&pause=1500&color=F79923&background=FFFFFF00&width=435&lines=Hi+I'm+Aaryaveer;Learning+Flutter+currently...)](https://git.io/typing-svg)-->
 
 <!-- ## Hi! 👋, I'm Aaryaveer
 #### Learning mobile application development📱 -->
