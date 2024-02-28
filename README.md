@@ -19,7 +19,7 @@
 [<img src='https://user-images.githubusercontent.com/71997730/170814994-b005073a-0a36-4ff3-a79b-9a044473aa15.svg' alt='linkedin' width="50" height="50">](https://www.linkedin.com/in/aaryaveer-rajput-0362b91b3/)
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,javascript,html,css,mysql,firebase,java,figma&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,javascript,html,css,mysql,firebase,java,python,figma&theme=dark&perline=10)](https://skillicons.dev)
 
 <!-- ## Stats📈
 
