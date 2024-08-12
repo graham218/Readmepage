@@ -16,8 +16,10 @@
 
 <!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AKR-2803) -->
 [<img src='https://user-images.githubusercontent.com/71997730/170814881-8ab0d779-9c46-4c8d-a25c-579ee588a217.svg' alt='github' width="50" height="50">](https://github.com/AKR-2803)
-[<img src='https://user-images.githubusercontent.com/71997730/170814994-b005073a-0a36-4ff3-a79b-9a044473aa15.svg' alt='linkedin' width="50" height="50">](https://www.linkedin.com/in/aaryaveer-rajput-0362b91b3/)
+[<img src='https://user-images.githubusercontent.com/71997730/170814994-b005073a-0a36-4ff3-a79b-9a044473aa15.svg' alt='linkedin' width="50" height="50">](https://www.linkedin.com/in/aaryaveer-rajput)
 ## Languages and Tools
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,javascript,html,css,mysql,firebase,java,python,figma&theme=dark&perline=10)](https://skillicons.dev)
 
