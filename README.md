@@ -1,5 +1,5 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20%20Aaryaveer;Learning%20Flutter%20Currently...;&font=Fira%20Code&width=440&height=45&color=FF7830&vCenter=true&pause=1000&size=25" /> -->
-<!--![Code Coding GIF - Code Coding Programming - Discover   Share GIFs](https://github.com/AKR-2803/AKR-2803/assets/109909231/c5dd19ee-5d3d-4e2a-9f54-75a50bb3f0a3) -->
+<!--![Code Coding GIF - Code Coding Programming - Discover Share GIFs](https://github.com/AKR-2803/AKR-2803/assets/109909231/c5dd19ee-5d3d-4e2a-9f54-75a50bb3f0a3) -->
 <div align="center">
   <kbd>
     <img src="https://github.com/AKR-2803/AKR-2803/assets/109909231/c5dd19ee-5d3d-4e2a-9f54-75a50bb3f0a3" width="500" height = "350">
@@ -36,10 +36,16 @@
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKR-2803)
 &nbsp;&nbsp;&nbsp; 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryaveer-rajput)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryaveer-rajput/)
 &nbsp;&nbsp;&nbsp; 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaryaveer)
 &nbsp;&nbsp;&nbsp; 
+
+
+<!-- ![GitHub Snake Light](https://github.com/AKR-2803/AKR-2803/blob/output/dist/github-snake.svg) -->
+![GitHub Snake Dark](https://github.com/AKR-2803/AKR-2803/blob/output/dist/github-snake-dark.svg)
+<!-- ![GitHub Snake Gif](https://github.com/AKR-2803/AKR-2803/blob/output/dist/ocean.gif) -->
+
 
 <!-- ## Stats📈
 
