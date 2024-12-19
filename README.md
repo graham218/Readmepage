@@ -43,7 +43,7 @@
 
 
 <!-- ![GitHub Snake Light](https://github.com/AKR-2803/AKR-2803/blob/output/dist/github-snake.svg) -->
-![GitHub Snake Dark](https://github.com/graham218/graham218/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://github.com/AKR-2803/AKR-2803/blob/output/github-contribution-grid-snake-dark.svg)
 <!-- ![GitHub Snake Gif](https://github.com/AKR-2803/AKR-2803/blob/output/dist/ocean.gif) -->
 
 
