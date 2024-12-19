@@ -9,7 +9,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&weight=500&size=28&duration=2000&pause=1500&color=F79923&background=FFFFFF00&width=435&lines=Hi+I'm+Aaryaveer;Learning+Flutter+currently...)](https://git.io/typing-svg)-->
 
-<!-- ## Hi! 👋, I'm Aaryaveer
+<!-- ## Hi! 👋, I'm Bill Graham Peacemaker from Nairobi, Kenya
 #### Learning...-->
 
 ## Skills
@@ -34,7 +34,7 @@
 [![IEEE](https://img.shields.io/badge/IEEE-%20-white?style=for-the-badge&color=white&labelColor=blue&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10581401)
 
 ## Connect with me
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKR-2803)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/g)
 &nbsp;&nbsp;&nbsp; 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryaveer-rajput/)
 &nbsp;&nbsp;&nbsp; 
@@ -43,13 +43,13 @@
 
 
 <!-- ![GitHub Snake Light](https://github.com/AKR-2803/AKR-2803/blob/output/dist/github-snake.svg) -->
-![GitHub Snake Dark](https://github.com/AKR-2803/AKR-2803/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://github.com/graham218/graham218/blob/output/github-contribution-grid-snake-dark.svg)
 <!-- ![GitHub Snake Gif](https://github.com/AKR-2803/AKR-2803/blob/output/dist/ocean.gif) -->
 
 
 <!-- ## Stats📈
 
-[![Aaryaveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKR-2803&theme=aura_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKR-2803&theme=aura_dark&layout=compact" />
-<img style="margin: 10px auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=AKR-2803&theme=aura_dark" />
+[![Aaryaveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=graham218&theme=aura_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graham218&theme=aura_dark&layout=compact" />
+<img style="margin: 10px auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=graham218&theme=aura_dark" />
  -->
